@@ -1,0 +1,29 @@
+{
+  "name": "dc-t-nuker",
+  "version": "1.0.0",
+  "description": "Discord Token Nuker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chew-dev/discord-token-nuker.git"
+  },
+  "keywords": [
+    "discord",
+    "token-nuker",
+    "token",
+    "nuke"
+  ],
+  "author": "chew-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chew-dev/discord-token-nuker/issues"
+  },
+  "homepage": "https://github.com/chew-dev/discord-token-nuker#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "readline": "^1.3.0"
+  }
+}
